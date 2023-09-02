@@ -1,0 +1,12 @@
+.copyright {
+  display: flex;
+  color: white;
+  background-color: rgb(216, 60, 7);
+}
+.reserve {
+  margin-left: 40%;
+}
+.name {
+  font: bold;
+  font-size: large;
+}
